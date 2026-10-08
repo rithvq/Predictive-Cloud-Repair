@@ -1,0 +1,14 @@
+[project]
+name = "cloud-repair-agent-plotting"
+version = "0.0.0"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.11"
+typeCheckingMode = "basic"

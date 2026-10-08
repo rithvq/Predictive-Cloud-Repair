@@ -1,0 +1,3 @@
+# Plotting (plot.py)
+pandas>=2.0
+matplotlib>=3.7
